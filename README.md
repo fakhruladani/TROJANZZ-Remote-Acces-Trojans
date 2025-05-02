@@ -1,8 +1,3 @@
-# TROJANZZ-Remote-Acces-Trojans-RAT
-Berikut adalah versi yang telah diperbaiki dan dikembangkan dari README Anda, dengan penjelasan penggunaan yang profesional namun tetap sederhana:
-
----
-
 # 🛡️ TROJANZZ - Remote Access Trojan (RAT)
 
 ```
