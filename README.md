@@ -72,7 +72,7 @@ This RAT supports the following remote commands:
 
 ## 👨‍💻 Author
 
-**Created by:** A. Fakhrul Adani
+**Created by:** fakhruladani
 Cybersecurity Student 
 
 ---
