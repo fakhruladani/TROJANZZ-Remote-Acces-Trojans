@@ -68,7 +68,6 @@ This RAT supports the following remote commands:
 ## 👨‍💻 Author
 
 **Created by:** fakhruladani
-Cybersecurity Student 
 
 ---
 
